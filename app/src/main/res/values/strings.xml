@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NoorSyafikhaLab6B</string>
+    <string name="name">Name</string>
+    <string name="price">Price</string>
+    <string name="choose_image">Choose Image</string>
+    <string name="view_list">VIEW LIST</string>
+    <string name="add_data">Add Data</string>
+</resources>
